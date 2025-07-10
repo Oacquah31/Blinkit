@@ -67,7 +67,7 @@ Power BI dashboard includes:
 - 📦 **Fat Content by Tier:** Sales split by fat content per outlet tier  
 - 📌 **KPIs:** Avg sales per outlet ($141), Avg rating (4.0), No. of unique items (8523)
 
-> 📷 ![Dashboard](./blinkit.png)
+> 📷 ![Dashboard](https://github.com/Oacquah31/Blinkit/blob/main/blinkit.png)
 
 ---
 
